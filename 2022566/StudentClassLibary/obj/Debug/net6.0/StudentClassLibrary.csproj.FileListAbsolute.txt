@@ -1,0 +1,12 @@
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\bin\Debug\net6.0\StudentClassLibrary.deps.json
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\bin\Debug\net6.0\StudentClassLibrary.dll
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\bin\Debug\net6.0\StudentClassLibrary.pdb
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\StudentClassLibrary.csproj.AssemblyReference.cache
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\StudentClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\StudentClassLibrary.AssemblyInfoInputs.cache
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\StudentClassLibrary.AssemblyInfo.cs
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\StudentClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\StudentClassLibrary.dll
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\refint\StudentClassLibrary.dll
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\StudentClassLibrary.pdb
+C:\Users\nappa\Downloads\งานกุ\2022566\StudentClassLibary\obj\Debug\net6.0\ref\StudentClassLibrary.dll

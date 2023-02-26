@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "StudentClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/StudentClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StudentClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../StudentClassLibary/StudentClassLibrary.csproj",
+      "msbuildProject": "../StudentClassLibary/StudentClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "StudentClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nappa\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nappa\\Downloads\\งานกุ\\2022566\\2022566\\LabClassLibrary.csproj",
+      "projectName": "LabClassLibrary",
+      "projectPath": "C:\\Users\\nappa\\Downloads\\งานกุ\\2022566\\2022566\\LabClassLibrary.csproj",
+      "packagesPath": "C:\\Users\\nappa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nappa\\Downloads\\งานกุ\\2022566\\2022566\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nappa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\nappa\\Downloads\\งานกุ\\2022566\\StudentClassLibary\\StudentClassLibrary.csproj": {
+              "projectPath": "C:\\Users\\nappa\\Downloads\\งานกุ\\2022566\\StudentClassLibary\\StudentClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
